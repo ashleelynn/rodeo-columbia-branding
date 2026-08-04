@@ -2,6 +2,12 @@
 
 Branding drafts and landing page for **RODEO** — your (non-class) life, wrangled.
 
+## Demo
+
+![Flier-storm landing demo](demo/flier-storm.gif)
+
+[Full-quality recording (MP4)](demo/flier-storm.mp4)
+
 ## Landing page
 
 `index.html` is the landing page — a Claude Design canvas export (runs via
