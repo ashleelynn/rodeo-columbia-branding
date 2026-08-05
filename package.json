@@ -1,0 +1,21 @@
+{
+  "name": "rodeo-columbia-branding",
+  "version": "1.0.0",
+  "description": "Rodeo - Columbia University event discovery app branding page",
+  "type": "module",
+  "scripts": {
+    "dev": "npx http-server . -p 3000",
+    "build": "echo 'No build step required for static site'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "rodeo",
+    "columbia",
+    "events"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
